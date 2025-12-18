@@ -13,7 +13,7 @@
 </table>
 
 <h1 align="center">
-  UsedSpace_On_Server – Мониторинг занятого места на сервере | n8n Workflow
+  UsedSpace_On_Server – Мониторинг занятого места на сервере (ver 1.0)
 </h1>
 
 <h3 align="center">
